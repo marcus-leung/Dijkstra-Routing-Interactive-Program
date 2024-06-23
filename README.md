@@ -6,15 +6,15 @@ Welcome to our interactive program designed to teach and demonstrate Dijkstra's 
 Dijkstra's Algorithm is a famous algorithm used for finding the shortest paths between nodes in a graph. This project provides an interactive menu-driven program that allows users to learn about Dijkstra's Algorithm, see it in action, and explore its applications in network routing.
 
 ## Features
-Interactive Menu: Navigate through the program using an easy-to-use menu system.
-Educational Content: Learn about the fundamentals of Dijkstra's Algorithm, including its purpose, steps, and real-world applications.
-Algorithm Visualization: Watch the algorithm find the shortest path in a given network.
-Hands-on Practice: Input your own network data and see Dijkstra's Algorithm in action.
+Interactive Menu: Navigate through the program using an easy-to-use menu system. <br />
+Educational Content: Learn about the fundamentals of Dijkstra's Algorithm, including its purpose, steps, and real-world applications. <br />
+Algorithm Visualization: Watch the algorithm find the shortest path in a given network. <br />
+Hands-on Practice: Input your own network data and see Dijkstra's Algorithm in action. <br />
 
 ## Files
-dijkstra.py: Contains the implementation of Dijkstra's Algorithm using heapq.
-graph.py: Contains the graph visualization using matplotlib and networkx.
-main.py: The main program file that ties everything together and provides the interactive menu.
+dijkstra.py: Contains the implementation of Dijkstra's Algorithm using heapq. <br />
+graph.py: Contains the graph visualization using matplotlib and networkx. <br />
+main.py: The main program file that ties everything together and provides the interactive menu.<br />
 
 ## Demo
 Watch our demo and explanation video on YouTube:
